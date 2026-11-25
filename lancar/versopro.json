@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.5",
-  "arquivo": "VersoPro-Instalador-1.8.5.exe",
-  "sha256": "45e630405774f7b3c5bed5f922c197293bce3f6d7c24d85210a8afd959577e5b",
-  "tamanho": 117380395,
-  "notas": "Corrige a imagem preta da câmera do celular (VersoCam) e mostra na tela o motivo quando o vídeo não chega.",
-  "data": "2026-11-25T16:23:32.388Z"
+  "versao": "1.8.6",
+  "arquivo": "VersoPro-Instalador-1.8.6.exe",
+  "sha256": "d11bc83aa8d43417cc3a2e3dc69e32b710030f38e8c14cef2c15d4425982ee84",
+  "tamanho": 117332556,
+  "notas": "Letras: passar de página não trava mais. A câmera do celular para de pesar o PC quando você sai de Apresentar. Inclui a correção da imagem preta da câmera.",
+  "data": "2026-11-25T16:52:18.561Z"
 }
