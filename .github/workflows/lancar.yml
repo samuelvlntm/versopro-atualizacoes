@@ -1,0 +1,24 @@
+name: Publicar versão
+on:
+  push:
+    branches: [claude/project-thread-gfsuuk]
+    paths: ['lancar/**']
+permissions:
+  contents: write
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Juntar instalador e criar a Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cd lancar
+          VER=$(python3 -c "import json;print(json.load(open('versopro.json'))['versao'])")
+          NOTAS=$(python3 -c "import json;print(json.load(open('versopro.json'))['notas'])")
+          cat $(ls VersoPro-$VER-parte*.bin | sort) > VersoPro.zip
+          unzip -o VersoPro.zip
+          EXE=VersoPro-Instalador-$VER.exe
+          echo "$(python3 -c "import json;print(json.load(open('versopro.json'))['sha256'])")  $EXE" | sha256sum -c -
+          gh release create "v$VER" "$EXE" versopro.json --repo "$GITHUB_REPOSITORY" --target main --title "VersoPro $VER" --notes "$NOTAS" --latest
