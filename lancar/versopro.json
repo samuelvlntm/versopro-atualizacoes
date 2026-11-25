@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.6",
-  "arquivo": "VersoPro-Instalador-1.8.6.exe",
-  "sha256": "d11bc83aa8d43417cc3a2e3dc69e32b710030f38e8c14cef2c15d4425982ee84",
-  "tamanho": 117332556,
-  "notas": "Letras: passar de página não trava mais. A câmera do celular para de pesar o PC quando você sai de Apresentar. Inclui a correção da imagem preta da câmera.",
-  "data": "2026-11-25T16:52:18.561Z"
+  "versao": "1.8.9",
+  "arquivo": "VersoPro-Instalador-1.8.9.exe",
+  "sha256": "2907d85a3ed4a457ce4c8073887469e24a7e768d42d60b97380b9f5cf9553f6f",
+  "tamanho": 135823733,
+  "notas": "Assistente de voz: usa a placa de vídeo quando houver, modelo Preciso mais fiel e entende erros como 'féciculo' (versículo), 'Matheus' e 'Mateus 1 2'.",
+  "data": "2026-11-25T19:01:31.000Z"
 }
