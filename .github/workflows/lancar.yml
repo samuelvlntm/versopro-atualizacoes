@@ -1,8 +1,6 @@
 name: Publicar versão
 on:
-  push:
-    branches: [claude/project-thread-gfsuuk]
-    paths: ['lancar/**']
+  workflow_dispatch:
 permissions:
   contents: write
 jobs:
