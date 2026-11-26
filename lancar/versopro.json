@@ -1,8 +1,8 @@
 {
-  "versao": "1.8.9",
-  "arquivo": "VersoPro-Instalador-1.8.9.exe",
-  "sha256": "2907d85a3ed4a457ce4c8073887469e24a7e768d42d60b97380b9f5cf9553f6f",
-  "tamanho": 135823733,
-  "notas": "Assistente de voz: usa a placa de vídeo quando houver, modelo Preciso mais fiel e entende erros como 'féciculo' (versículo), 'Matheus' e 'Mateus 1 2'.",
-  "data": "2026-11-25T19:01:31.000Z"
+  "versao": "1.9.0",
+  "arquivo": "VersoPro-Instalador-1.9.0.exe",
+  "sha256": "86f6c727518b316bcfb448f501e200defdc3440dab5d80a3b461b2051c428bf4",
+  "tamanho": 135746161,
+  "notas": "Gerador 5.0 Show: fundos com luzes de palco, laser, neon e mistura de cores, com vários estilos de letra. Novo botão Vídeo letra: o vídeo gravado no celular passa no fundo, em preto e branco, com riscos de luz. VersoStudio: 22 flyers modernos e novas fontes.",
+  "data": "2026-11-26T02:29:26.946Z"
 }
