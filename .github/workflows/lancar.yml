@@ -1,6 +1,8 @@
 name: Publicar versão
 on:
   workflow_dispatch:
+  push:
+    branches: [claude/project-thread-8pjlwc]
 permissions:
   contents: write
 jobs:
