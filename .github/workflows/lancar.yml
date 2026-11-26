@@ -1,9 +1,6 @@
 name: Publicar versão
 on:
   workflow_dispatch:
-  push:
-    branches: [claude/project-thread-b8dgbj]
-    paths: ['lancar/**', '.github/workflows/lancar.yml']
 permissions:
   contents: write
 jobs:
