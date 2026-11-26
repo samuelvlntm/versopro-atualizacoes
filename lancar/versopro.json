@@ -1,8 +1,8 @@
 {
-  "versao": "1.9.1",
-  "arquivo": "VersoPro-Instalador-1.9.1.exe",
-  "sha256": "c4db0539c28158001fe9224c39afbf0a3a729f77e73de1912089d5a0470779bb",
-  "tamanho": 135994763,
-  "notas": "Vídeo letra agora também funciona com a câmera do celular ao vivo (VersoCam), com os mesmos efeitos de luz e preto e branco. Corrige o logo que faltava na 1.9.0.",
-  "data": "2026-11-26T02:55:44.774Z"
+  "versao": "1.9.2",
+  "arquivo": "VersoPro-Instalador-1.9.2.exe",
+  "sha256": "335ea9a755931330317e29406a549674bbdccf2f5dd940f3ccb5f85a9fb2b239",
+  "tamanho": 135903760,
+  "notas": "As Bíblias importadas não somem mais ao abrir o programa, e ele volta na última tradução usada. Novo botão para baixar traduções da Bíblia e os 640 hinos da Harpa Cristã direto da internet. O controle de volume do rodapé agora ajusta o volume geral da projeção.",
+  "data": "2026-11-26T12:15:40.780Z"
 }
