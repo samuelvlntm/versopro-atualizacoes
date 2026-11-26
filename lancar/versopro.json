@@ -1,8 +1,8 @@
 {
-  "versao": "1.9.0",
-  "arquivo": "VersoPro-Instalador-1.9.0.exe",
-  "sha256": "86f6c727518b316bcfb448f501e200defdc3440dab5d80a3b461b2051c428bf4",
-  "tamanho": 135746161,
-  "notas": "Gerador 5.0 Show: fundos com luzes de palco, laser, neon e mistura de cores, com vários estilos de letra. Novo botão Vídeo letra: o vídeo gravado no celular passa no fundo, em preto e branco, com riscos de luz. VersoStudio: 22 flyers modernos e novas fontes.",
-  "data": "2026-11-26T02:29:26.946Z"
+  "versao": "1.9.1",
+  "arquivo": "VersoPro-Instalador-1.9.1.exe",
+  "sha256": "c4db0539c28158001fe9224c39afbf0a3a729f77e73de1912089d5a0470779bb",
+  "tamanho": 135994763,
+  "notas": "Vídeo letra agora também funciona com a câmera do celular ao vivo (VersoCam), com os mesmos efeitos de luz e preto e branco. Corrige o logo que faltava na 1.9.0.",
+  "data": "2026-11-26T02:55:44.774Z"
 }
