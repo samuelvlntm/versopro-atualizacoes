@@ -1,9 +1,6 @@
 name: Publicar versão
 on:
   workflow_dispatch:
-  push:
-    branches: [claude/versopro-1.9.1]
-    paths: ['lancar/**']
 permissions:
   contents: write
 jobs:
