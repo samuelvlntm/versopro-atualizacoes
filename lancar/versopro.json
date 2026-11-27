@@ -1,8 +1,8 @@
 {
-  "versao": "1.9.3",
-  "arquivo": "VersoPro-Instalador-1.9.3.exe",
-  "sha256": "4f3704bd35e893da239f1249d2b755e02a7f386e9ea7d5951427ae06c6c8d96a",
-  "tamanho": 135990883,
-  "notas": "Novo botão Organizar em Letras: troque o gerador de fundo de todos os hinos de uma categoria (ex.: Harpa Cristã) de uma vez, ou exclua todos. Novos botões Salvar estilo e Aplicar estilo: guarde o visual de uma página e copie para outra página, para a música inteira ou para uma categoria.",
-  "data": "2026-11-26T13:20:33.879Z"
+  "versao": "1.9.4",
+  "arquivo": "VersoPro-Instalador-1.9.4.exe",
+  "sha256": "057be1964d70c2d4f1905f6d3c258663febc084f877ebcee96d349978add21ee",
+  "tamanho": 135939586,
+  "notas": "Câmera do celular (VersoCam) mais lisa no Vídeo letra e em Apresentar: o PC guarda um pouquinho de vídeo para o Wi-Fi não dar trancos, desenha cada quadro na hora certa e não pula mais quadros no meio (era isso que deixava a imagem cheia de borrões e quadrados). No Vídeo letra, trocar de página não deixa mais a tela preta: o vídeo de fundo continua e só a letra troca.",
+  "data": "2026-11-27T20:34:30.000Z"
 }
